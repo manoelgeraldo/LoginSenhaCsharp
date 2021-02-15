@@ -1,0 +1,11 @@
+C:\Violet\VioletSystem\Domain\bin\Debug\Domain.dll
+C:\Violet\VioletSystem\Domain\bin\Debug\Domain.pdb
+C:\Violet\VioletSystem\Domain\bin\Debug\Common.dll
+C:\Violet\VioletSystem\Domain\bin\Debug\DataAccess.dll
+C:\Violet\VioletSystem\Domain\bin\Debug\Common.pdb
+C:\Violet\VioletSystem\Domain\bin\Debug\DataAccess.pdb
+C:\Violet\VioletSystem\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Violet\VioletSystem\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Violet\VioletSystem\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Violet\VioletSystem\Domain\obj\Debug\Domain.dll
+C:\Violet\VioletSystem\Domain\obj\Debug\Domain.pdb

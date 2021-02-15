@@ -1,0 +1,6 @@
+C:\Violet\VioletSystem\Common\bin\Debug\Common.dll
+C:\Violet\VioletSystem\Common\bin\Debug\Common.pdb
+C:\Violet\VioletSystem\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Violet\VioletSystem\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Violet\VioletSystem\Common\obj\Debug\Common.dll
+C:\Violet\VioletSystem\Common\obj\Debug\Common.pdb

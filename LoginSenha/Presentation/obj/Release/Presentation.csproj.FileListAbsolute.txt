@@ -1,0 +1,67 @@
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.FormLogin.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.Person.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.FormMain.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\SRCVLI\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\SRCVLI\Presentation\obj\Release\Presentation.FormLogin.resources
+C:\SRCVLI\Presentation\obj\Release\Presentation.Person.resources
+C:\SRCVLI\Presentation\obj\Release\Presentation.FormMain.resources
+C:\SRCVLI\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\SRCVLI\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache
+C:\SRCVLI\Presentation\obj\Release\Presentation.csproj.CoreCompileInputs.cache
+C:\SRCVLI\Presentation\bin\Release\Presentation.exe.config
+C:\SRCVLI\Presentation\bin\Release\Presentation.exe
+C:\SRCVLI\Presentation\bin\Release\Presentation.pdb
+C:\SRCVLI\Presentation\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\SRCVLI\Presentation\bin\Release\Common.dll
+C:\SRCVLI\Presentation\bin\Release\Domain.dll
+C:\SRCVLI\Presentation\bin\Release\DataAccess.dll
+C:\SRCVLI\Presentation\bin\Release\Common.pdb
+C:\SRCVLI\Presentation\bin\Release\Domain.pdb
+C:\SRCVLI\Presentation\bin\Release\DataAccess.pdb
+C:\SRCVLI\Presentation\obj\Release\Presentation.csproj.CopyComplete
+C:\SRCVLI\Presentation\obj\Release\Presentation.exe
+C:\SRCVLI\Presentation\obj\Release\Presentation.pdb
+C:\Violet\VioletSystem\Presentation\bin\Release\Presentation.exe.config
+C:\Violet\VioletSystem\Presentation\bin\Release\Presentation.exe
+C:\Violet\VioletSystem\Presentation\bin\Release\Presentation.pdb
+C:\Violet\VioletSystem\Presentation\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Violet\VioletSystem\Presentation\bin\Release\Common.dll
+C:\Violet\VioletSystem\Presentation\bin\Release\Domain.dll
+C:\Violet\VioletSystem\Presentation\bin\Release\DataAccess.dll
+C:\Violet\VioletSystem\Presentation\bin\Release\Common.pdb
+C:\Violet\VioletSystem\Presentation\bin\Release\Domain.pdb
+C:\Violet\VioletSystem\Presentation\bin\Release\DataAccess.pdb
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.FormLogin.resources
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.Person.resources
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.FormMain.resources
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.csproj.CoreCompileInputs.cache
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.csproj.CopyComplete
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.exe
+C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.exe.config
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.exe
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Common.dll
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Domain.dll
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\DataAccess.dll
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Common.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Domain.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\DataAccess.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csprojAssemblyReference.cache
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.FormLogin.resources
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.Person.resources
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.FormMain.resources
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.Properties.Resources.resources
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csproj.GenerateResource.cache
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csproj.CoreCompileInputs.cache
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csproj.CopyComplete
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.exe
+C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.pdb

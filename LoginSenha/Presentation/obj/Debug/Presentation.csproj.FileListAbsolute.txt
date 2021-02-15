@@ -1,0 +1,41 @@
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Presentation.exe
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Common.dll
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Domain.dll
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Common.pdb
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Domain.pdb
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\bin\Debug\Domain.dll.config
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.exe
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Cibelle Caldas\Desktop\SistemaRegistrosCrimesViolentosLetaisIntencionais\SRCVLI\Presentation\obj\Debug\Presentation.Person.resources
+C:\SRCVLI\Presentation\bin\Debug\Presentation.exe.config
+C:\SRCVLI\Presentation\bin\Debug\Presentation.exe
+C:\SRCVLI\Presentation\bin\Debug\Presentation.pdb
+C:\SRCVLI\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\SRCVLI\Presentation\bin\Debug\Common.dll
+C:\SRCVLI\Presentation\bin\Debug\Domain.dll
+C:\SRCVLI\Presentation\bin\Debug\DataAccess.dll
+C:\SRCVLI\Presentation\bin\Debug\Common.pdb
+C:\SRCVLI\Presentation\bin\Debug\Domain.pdb
+C:\SRCVLI\Presentation\bin\Debug\DataAccess.pdb
+C:\SRCVLI\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\SRCVLI\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\SRCVLI\Presentation\obj\Debug\Presentation.Person.resources
+C:\SRCVLI\Presentation\obj\Debug\Presentation.FormMain.resources
+C:\SRCVLI\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\SRCVLI\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\SRCVLI\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\SRCVLI\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\SRCVLI\Presentation\obj\Debug\Presentation.exe
+C:\SRCVLI\Presentation\obj\Debug\Presentation.pdb

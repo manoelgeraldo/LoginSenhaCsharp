@@ -1,0 +1,9 @@
+C:\Violet\VioletSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Violet\VioletSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Violet\VioletSystem\DataAccess\bin\Debug\Common.dll
+C:\Violet\VioletSystem\DataAccess\bin\Debug\Common.pdb
+C:\Violet\VioletSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Violet\VioletSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Violet\VioletSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Violet\VioletSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Violet\VioletSystem\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,289 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "VisualBasic.PowerPacks.Vs/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll": {},
+          "lib/Microsoft.VisualBasic.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Common": "1.0.0",
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisualBasic.PowerPacks.Vs/1.0.0": {
+      "sha512": "IiQWQjCWfPmwR8Q1P1V/z1Et7Mr3QG4RUw+mgXuUgNvseNm06VDEZu8DwlZx9UXw+Uf6E7E/d5wXpGEYJOuG7g==",
+      "type": "package",
+      "path": "visualbasic.powerpacks.vs/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.VisualBasic.PowerPacks.Vs.dll",
+        "lib/Microsoft.VisualBasic.dll",
+        "visualbasic.powerpacks.vs.1.0.0.nupkg.sha512",
+        "visualbasic.powerpacks.vs.nuspec"
+      ]
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Common >= 1.0.0",
+      "Domain >= 1.0.0",
+      "VisualBasic.PowerPacks.Vs >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Cibelle Caldas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\LoginSenhaCsharp\\LoginSenha\\Presentation\\Presentation.csproj",
+      "projectName": "Presentation",
+      "projectPath": "C:\\LoginSenhaCsharp\\LoginSenha\\Presentation\\Presentation.csproj",
+      "packagesPath": "C:\\Users\\Cibelle Caldas\\.nuget\\packages\\",
+      "outputPath": "C:\\LoginSenhaCsharp\\LoginSenha\\Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Cibelle Caldas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\LoginSenhaCsharp\\LoginSenha\\Common\\Common.csproj": {
+              "projectPath": "C:\\LoginSenhaCsharp\\LoginSenha\\Common\\Common.csproj"
+            },
+            "C:\\LoginSenhaCsharp\\LoginSenha\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\LoginSenhaCsharp\\LoginSenha\\Domain\\Domain.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "VisualBasic.PowerPacks.Vs": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
