@@ -48,7 +48,6 @@ C:\Violet\VioletSystem\Presentation\obj\Release\Presentation.pdb
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.exe.config
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.exe
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Presentation.pdb
-C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Common.dll
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\Domain.dll
 C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\DataAccess.dll
@@ -65,3 +64,4 @@ C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csproj.Core
 C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.csproj.CopyComplete
 C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.exe
 C:\LoginSenhaCsharp\LoginSenha\Presentation\obj\Release\Presentation.pdb
+C:\LoginSenhaCsharp\LoginSenha\Presentation\bin\Release\FontAwesome.Sharp.dll

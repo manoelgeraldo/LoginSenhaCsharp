@@ -38,13 +38,19 @@ namespace Presentation
             this.btnLogin = new System.Windows.Forms.Button();
             this.txtPass = new System.Windows.Forms.TextBox();
             this.txtUserName = new System.Windows.Forms.TextBox();
+            this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pnlSideLogin.SuspendLayout();
             this.pnlLoginMain.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnCloseLogin)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlSideLogin
             // 
             this.pnlSideLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.pnlSideLogin.Controls.Add(this.label1);
+            this.pnlSideLogin.Controls.Add(this.iconPictureBox1);
             this.pnlSideLogin.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlSideLogin.Location = new System.Drawing.Point(0, 0);
             this.pnlSideLogin.Margin = new System.Windows.Forms.Padding(4);
@@ -98,7 +104,6 @@ namespace Presentation
             this.linkPass.Name = "linkPass";
             this.linkPass.Size = new System.Drawing.Size(136, 17);
             this.linkPass.TabIndex = 4;
-            this.linkPass.TabStop = true;
             this.linkPass.Text = "Esqueceu a Senha?";
             this.linkPass.MouseEnter += new System.EventHandler(this.linkPass_MouseEnter);
             this.linkPass.MouseLeave += new System.EventHandler(this.linkPass_MouseLeave);
@@ -149,6 +154,7 @@ namespace Presentation
             // 
             // txtPass
             // 
+            this.txtPass.AcceptsTab = true;
             this.txtPass.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.txtPass.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtPass.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -164,18 +170,46 @@ namespace Presentation
             // 
             // txtUserName
             // 
+            this.txtUserName.AcceptsTab = true;
             this.txtUserName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(15)))), ((int)(((byte)(15)))));
             this.txtUserName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtUserName.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUserName.ForeColor = System.Drawing.Color.DimGray;
             this.txtUserName.Location = new System.Drawing.Point(109, 91);
             this.txtUserName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUserName.MaxLength = 10;
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(458, 32);
             this.txtUserName.TabIndex = 1;
             this.txtUserName.Text = "Usuário";
             this.txtUserName.Enter += new System.EventHandler(this.txtUserName_Enter);
             this.txtUserName.Leave += new System.EventHandler(this.txtUserName_Leave);
+            // 
+            // iconPictureBox1
+            // 
+            this.iconPictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.iconPictureBox1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.iconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.Contao;
+            this.iconPictureBox1.IconColor = System.Drawing.SystemColors.ActiveCaption;
+            this.iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconPictureBox1.IconSize = 206;
+            this.iconPictureBox1.Location = new System.Drawing.Point(3, 91);
+            this.iconPictureBox1.Name = "iconPictureBox1";
+            this.iconPictureBox1.Size = new System.Drawing.Size(261, 206);
+            this.iconPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.iconPictureBox1.TabIndex = 0;
+            this.iconPictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Magneto", 12.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label1.Location = new System.Drawing.Point(87, 252);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(89, 27);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Sharp";
             // 
             // FormLogin
             // 
@@ -191,9 +225,12 @@ namespace Presentation
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormLogin";
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.FormLogin_MouseMove);
+            this.pnlSideLogin.ResumeLayout(false);
+            this.pnlSideLogin.PerformLayout();
             this.pnlLoginMain.ResumeLayout(false);
             this.pnlLoginMain.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnCloseLogin)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -209,5 +246,7 @@ namespace Presentation
         private System.Windows.Forms.LinkLabel linkPass;
         private System.Windows.Forms.PictureBox btnCloseLogin;
         private System.Windows.Forms.Label lblErrorMessage;
+        private System.Windows.Forms.Label label1;
+        private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
     }
 }

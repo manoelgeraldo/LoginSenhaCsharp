@@ -92,9 +92,9 @@
       "frameworks": {
         "net472": {
           "dependencies": {
-            "VisualBasic.PowerPacks.Vs": {
+            "FontAwesome.Sharp": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[5.15.3, )"
             }
           }
         }

@@ -34,7 +34,7 @@ namespace Presentation
             if (txtUserName.Text == "")
             {
                 txtUserName.Text = "Usuário";
-                txtUserName.ForeColor = Color.LightGray;
+                txtUserName.ForeColor = Color.DarkGray;
             }
             txtUserName.BorderStyle = BorderStyle.FixedSingle;
         }
@@ -53,7 +53,7 @@ namespace Presentation
             if (txtPass.Text == "")
             {
                 txtPass.Text = "Senha";
-                txtPass.ForeColor = Color.LightGray;
+                txtPass.ForeColor = Color.DarkGray;
                 txtPass.UseSystemPasswordChar = false;
             }
             txtPass.BorderStyle = BorderStyle.FixedSingle;
@@ -80,26 +80,30 @@ namespace Presentation
                     if (validLogin == true)
                     {
                         FormMain mainMenu = new FormMain();
-                        MessageBox.Show("Seja Bem-vindo" + " " +UserLoginCache.FirstName + " " + UserLoginCache.LastName, "Violet");
+                        MessageBox.Show("Seja Bem-vindo" + " " +UserLoginCache.FirstName + " " + UserLoginCache.LastName, "CSharp Login");
                         mainMenu.Show();
                         mainMenu.FormClosed += Logout;
                         this.Hide();
                     }
                     else
                     {
-                        msgError("Usuário ou Senha não correspondem! Por Favor tente novamente.");
+                        msgError("Usuário ou Senha não correspondem!");
                         txtPass.Text = "Senha";
                         txtUserName.Focus();
                     }
                 }
-                else msgError("Informe sua Senha!");
+                else
+                {
+                    msgError("Informe sua Senha!");
+                    txtPass.Focus();
+                }
             }
-            else msgError("Informe seu Nome de Usuário");
+            else msgError("Informe seu Nome de Usuário e Senha!");
         }
         //Cria variável p mostrar msg de erro no login;
         private void msgError(string msg)
         {
-            lblErrorMessage.Text = "    " + msg;
+            lblErrorMessage.Text = "* " + msg;
             lblErrorMessage.Visible = true;
         }
         private void Logout(object sender, FormClosedEventArgs e)

@@ -147,22 +147,23 @@ namespace Presentation
         //Botão SideBar abre e sinaliza que formulário está aberto;
         private void btnPerson_Click(object sender, EventArgs e)
         {
-            OpenForms<Person>();
-            btnPerson.BackColor = Color.FromArgb(12, 61, 92);
+            //OpenForms<Person>();
+            //btnPerson.BackColor = Color.FromArgb(12, 61, 92);
         }
 
         //Botão SideBar perde a cor ao formulário se fechado; 
         private void CloseForms(object sender, FormClosedEventArgs e)
         {
-            if (Application.OpenForms["Person"] == null)
-                btnPerson.BackColor = Color.FromArgb(4, 41, 68);
+            //if (Application.OpenForms["Person"] == null)
+            //    btnPerson.BackColor = Color.FromArgb(4, 41, 68);
         }
 
         //carrega formulario
         private void FormMain_Load(object sender, EventArgs e)
         {
-            LoadUserData();
-            ManagePermissions();
+            //LoadUserData();
+            //ManagePermissions();
+            timerHora.Enabled = true;
         }
         //administra as permissões
         private void ManagePermissions()
@@ -172,13 +173,57 @@ namespace Presentation
                 //Codes
             }
         }
+
+        private void timerHora_Tick(object sender, EventArgs e)
+        {
+            lblHora.Text = DateTime.Now.ToString("hh:mm");
+            lblDiaSemana.Text = DateTime.Now.ToLongDateString();
+
+        }
+
+        private void timerOcultar_Tick(object sender, EventArgs e)
+        {
+            if (pnlMenu.Width == 55)
+            {
+                this.timerOcultar.Stop();
+            }
+            else
+            {
+                pnlMenu.Width = pnlMenu.Width - 15;
+            }
+        }
+
+        private void timerMostrar_Tick(object sender, EventArgs e)
+        {
+            if (pnlMenu.Width == 220)
+            {
+                this.timerMostrar.Stop();
+            }
+            else
+            {
+                pnlMenu.Width = pnlMenu.Width + 15;
+            }
+        }
+
+        private void btnMenu_Click(object sender, EventArgs e)
+        {
+            if (pnlMenu.Width == 220)
+            {
+                this.timerOcultar.Start();
+            }
+            else if (pnlMenu.Width == 55)
+            {
+                this.timerMostrar.Start();
+            }
+        }
+
         //Mostrar os dados de quem está logado
         private void LoadUserData()
         {
-            lblName.Text = UserLoginCache.FirstName;
-            lblPosition.Text = UserLoginCache.Position;
-            dtpInfoDate.Format = DateTimePickerFormat.Custom;
-            dtpInfoDate.CustomFormat = "dd/MM/yy - H:mm";
+            //lblName.Text = UserLoginCache.FirstName;
+            //lblPosition.Text = UserLoginCache.Position;
+            //dtpInfoDate.Format = DateTimePickerFormat.Custom;
+            //dtpInfoDate.CustomFormat = "dd/MM/yy - H:mm";
         }
         //Faz o logout do sistema
         private void btnLogout_Click(object sender, EventArgs e)

@@ -141,11 +141,6 @@
     <None Include="Resources\Health-PNG-Image.png" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="VisualBasic.PowerPacks.Vs">
-      <Version>1.0.0</Version>
-    </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{67f88950-0aba-4dae-abf5-78903361b779}</Project>
       <Name>Common</Name>
@@ -154,6 +149,11 @@
       <Project>{c20425dc-0332-4e3c-a4b4-7992ef1dd69e}</Project>
       <Name>Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp">
+      <Version>5.15.3</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
